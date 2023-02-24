@@ -67,6 +67,5 @@ Style the element with id="camera-view", "camera-device", "photo-display"
 */
 #camera-view, #camera-device, #photo-display{
     transform: scaleX(-1);
-    width: 300px;
 }
 
